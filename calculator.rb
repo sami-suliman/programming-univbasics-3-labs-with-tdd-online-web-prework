@@ -1,5 +1,5 @@
 # Add your variables here
-first_number = 1 
+first_number = 7 
 
 second_number = 5
 
