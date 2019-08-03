@@ -5,5 +5,5 @@ second_number = 5
 
 sum = first_number + second_number
 
-differnece = second_number - first_number
+differnece = first_number - second_number
 
